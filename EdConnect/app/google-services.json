@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665173240725",
+    "firebase_url": "https://edconnect-de3ff.firebaseio.com",
+    "project_id": "edconnect-de3ff",
+    "storage_bucket": "edconnect-de3ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665173240725:android:e7f8b749f3ab2697",
+        "android_client_info": {
+          "package_name": "com.finalP.edconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665173240725-fku9oan7uc73rii6s12q90jb3evo0ohh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalP.edconnect",
+            "certificate_hash": "623a8668b932fad4251b3c450da1f3412eccc29d"
+          }
+        },
+        {
+          "client_id": "665173240725-10ova28lkqkhsvhm93fv8h72frj211jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXX2BE8OqdKVYGaH0djhAIkljrkc6QHhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665173240725-10ova28lkqkhsvhm93fv8h72frj211jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
